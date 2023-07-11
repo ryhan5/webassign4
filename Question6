@@ -1,0 +1,1 @@
+Template literals are a new feature introduced in ECMAScript. It provides an easy way to create multiline strings and perform string interpolation. Template literals are the string literals and allow embedded expressions. Before ES6, template literals were called as template strings.
