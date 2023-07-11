@@ -1,0 +1,9 @@
+The major features introduced in ECMAScript 6 are:
+let and const Keywords.
+Arrow Functions.
+Multi-line Strings.
+Default Parameters.
+Template Literals.
+Destructuring Assignment.
+Enhanced Object Literals.
+Promises.
