@@ -1,0 +1,9 @@
+In ECMAScript 6 (ES6) and later versions of JavaScript, you can define default parameter values for function parameters. Default parameter values allow you to assign a default value to a function parameter if no argument or an undefined argument is provided during function invocation.
+Here's how you can define default parameter values in ES6 functions:
+
+```javascript
+function myFunction(param1 = defaultValue1, param2 = defaultValue2) {
+  // Function code
+}
+```
+
